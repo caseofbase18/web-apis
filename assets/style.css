@@ -1,11 +1,13 @@
 body {
     background-color: darkturquoise;
     font-family: 'Ranchers', cursive;
-    text-align: center;
 }
 
+#main {
+    text-align: center;
+}
 h1 {
-    text-align: right;
+    text-align: center;
 }
 
 button {
@@ -15,5 +17,5 @@ button {
     padding: 10px 10px 10px 10px;
     font-size: larger;
 }
-
+ 
 
