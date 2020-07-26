@@ -155,4 +155,4 @@ function showHighScores() {
 }
 window.addEventListener("load", supplyQuestion);
 
-highScoreButton.addEventListener("click", showHighScores)
+highScoreButton.addEventListener("click", showHighScores);
