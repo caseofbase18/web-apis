@@ -5,6 +5,6 @@ This repository features a quiz containing multiple-choice questions (about Java
 
 This quiz features an HTML file, a CSS file, and a Javascript file that have been dynamically updated.  Most of the code is found in the js file.  The interface is clean, colorful, and responsive.
 
-Screenshot of Question 1: <img src="./assets/web_apis_screenshot.png">
-
 deployed: https://caseofbase18.github.io/web-apis/
+
+Screenshot of Question 1: <img src="./assets/web_apis_screenshot.png">
